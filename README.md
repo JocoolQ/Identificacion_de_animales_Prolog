@@ -11,7 +11,7 @@ Jonathan Steven Capera Quintana - 20202495005
 
 ## Requerimientos
 
-Para ejecutar la aplicación se requiere instalar el entorno SWI-Prolog. Puede acceder a los enlaces de descarga a través del siguiente link[https://www.swi-prolog.org/download/stable], seleccione el indicado de acuerdo a su sistema operativo.
+(Para ejecutar la aplicación se requiere instalar el entorno SWI-Prolog. Puede acceder a los enlaces de descarga a través del siguiente [link] (https://www.swi-prolog.org/download/stable), seleccione el indicado de acuerdo a su sistema operativo.
 
 
 ## Instrucciones
