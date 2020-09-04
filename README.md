@@ -16,9 +16,9 @@ Para ejecutar la aplicación se requiere instalar el entorno SWI-Prolog. Puede a
 
 ## Instrucciones
 * Abra el entorno de SWI-Prolog y cargue el archivo *identificacion_animales.pl* en la pestaña File->Consult.
-* Escriba la sentencia *go* en el editor de comandos y presione la tecla *"Enter"*.
+* Escriba la sentencia *"go"* en el editor de comandos seguido de un punto *"."* y presione la tecla *"Enter"*.
 * Responda a las preguntas con la palabra *"yes"* o con el caracter *"y"* seguido de un punto *"."* y presione la tecla *"Enter"*.
-* Al finalizar el programa mostrará la inferencia realizada del animal basado en las respuestas otorgadas.
+* Al finalizar, el programa mostrará la inferencia realizada del animal basado en las respuestas otorgadas.
 * Para reiniciar los valores de las respuestas almacenadas ingrese el comando *"undo"* seguido de un punto *"."* y la tecla *"Enter"*.
 
 ## Licencia
